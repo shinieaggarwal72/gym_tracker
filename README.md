@@ -17,5 +17,5 @@ Tracks the number of reps in real time. Built using Mediapipe, OpenCV and Gradio
    ```
 4. Run the app
    ```bash
-   python curl_counter.py
+   python main.py
    ```
